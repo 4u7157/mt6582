@@ -1,0 +1,1 @@
+cmd_security/keys/encrypted-keys/encrypted-keys.o := ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o security/keys/encrypted-keys/encrypted-keys.o security/keys/encrypted-keys/encrypted.o security/keys/encrypted-keys/ecryptfs_format.o 

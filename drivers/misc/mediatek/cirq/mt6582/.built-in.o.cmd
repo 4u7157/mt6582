@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/cirq/mt6582/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/cirq/mt6582/built-in.o drivers/misc/mediatek/cirq/mt6582/mt_cirq.o 

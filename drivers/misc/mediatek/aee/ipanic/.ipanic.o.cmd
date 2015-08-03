@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/ipanic/ipanic.o := ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/aee/ipanic/ipanic.o drivers/misc/mediatek/aee/ipanic/ipanic_log.o drivers/misc/mediatek/aee/ipanic/ipanic_rom.o drivers/misc/mediatek/aee/ipanic/ipanic_emmc.o 

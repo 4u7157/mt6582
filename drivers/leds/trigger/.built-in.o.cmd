@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/leds/trigger/built-in.o drivers/leds/trigger/ledtrig-timer.o 

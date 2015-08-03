@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/ccci_util/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/ccci_util/built-in.o drivers/misc/mediatek/ccci_util/mt6582/built-in.o drivers/misc/mediatek/ccci_util/ccci_util_dummy.o 

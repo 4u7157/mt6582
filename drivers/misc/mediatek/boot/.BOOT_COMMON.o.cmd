@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/boot/BOOT_COMMON.o := ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/boot/BOOT_COMMON.o drivers/misc/mediatek/boot/mt_boot_common.o 
