@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/broadcast/oneseg/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/broadcast/oneseg/built-in.o drivers/misc/mediatek/broadcast/oneseg/broadcast_dmb_drv_if.o drivers/misc/mediatek/broadcast/oneseg/mtv222/built-in.o 

@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/btcvsd/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/btcvsd/built-in.o drivers/misc/mediatek/btcvsd/mt6582/built-in.o 

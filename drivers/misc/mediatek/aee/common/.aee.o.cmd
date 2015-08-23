@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/aee/common/aee.o := ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/aee/common/aee.o drivers/misc/mediatek/aee/common/dummy.o drivers/misc/mediatek/aee/common/aee-common.o drivers/misc/mediatek/aee/common/reboot-reason.o drivers/misc/mediatek/aee/common/wdt-handler.o 

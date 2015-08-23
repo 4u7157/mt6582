@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/conn_md/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/conn_md/built-in.o drivers/misc/mediatek/conn_md/conn_md_bridge.o 

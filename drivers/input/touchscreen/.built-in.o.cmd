@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/mediatek/built-in.o 

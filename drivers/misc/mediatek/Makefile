@@ -1,7 +1,7 @@
 #$(call all-subdir-src-or-makefile)
 
 include $(srctree)/drivers/misc/mediatek/Makefile.custom
-
+MTK_PLATFORM := mt6582
 # For MT6795 FPGA bring-up
 ifeq ($(CONFIG_ARCH_MT6795),y)
 include $(srctree)/drivers/misc/mediatek/Makefile.mt6795
@@ -25,7 +25,7 @@ ifneq ($(CONFIG_MTK_GIC),y)
 obj-y   += irq/
 endif
 
-obj-$(CONFIG_MTK_CPU_STRESS)	+= cpu_stress/
+#obj-$(CONFIG_MTK_CPU_STRESS)	+= cpu_stress/
 obj-$(CONFIG_MTK_LASTPC)	    += lastpc/
 obj-$(CONFIG_MTK_DBG_DUMP) += dbg_dump/
 

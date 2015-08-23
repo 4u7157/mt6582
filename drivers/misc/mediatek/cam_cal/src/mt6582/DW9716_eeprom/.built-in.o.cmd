@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/cam_cal/src/mt6582/DW9716_eeprom/built-in.o :=  ../../../prebuilt/linux-x86/toolchain/linaro-4.8-14.04/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/misc/mediatek/cam_cal/src/mt6582/DW9716_eeprom/built-in.o drivers/misc/mediatek/cam_cal/src/mt6582/DW9716_eeprom/DW9716_eeprom.o 
