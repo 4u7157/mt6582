@@ -53,7 +53,7 @@ endif
 endif
 
 $(KERNEL_OUT):
-	mkdir -p $@
+	mkdir -p $(KERNEL_OUT)
 
 .PHONY: kernel kernel-defconfig bootchart2defconfig kernel-menuconfig clean-kernel
 kernel-menuconfig: | $(KERNEL_OUT)
